@@ -1,0 +1,1 @@
+define({ availableImg: ["Xiong2021Deep","Beck2016Visual","McLeod2016Using","Moawad2025New","Regterschot2021Wearable","GonzalesHuisa2023EMG","Moghadam2023Comparison","Vasconez2022Hand","Mekruksavanich2022Deep","Zhou2020Accurate","Siviero2024Remote"]});
